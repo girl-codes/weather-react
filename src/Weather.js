@@ -3,7 +3,7 @@ import "./Weather.css";
 
 export default function Weather() {
   let weatherData = {
-    city: "New York",
+    city: "London",
     temperature: 19,
     date: "Tuesday 10:00",
     description: "Cloudy",
